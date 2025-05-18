@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# PyCharm
+.idea/
+.DS_Store
+
+# Database
+data/numbers.db
+data/
